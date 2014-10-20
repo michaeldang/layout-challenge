@@ -48,6 +48,7 @@ nav a:hover, input:focus {
 }
 
 .container-fluid {
+    position: relative;
     background-image: url(../img/ricepaper_v3.png);
     opacity: 0.9;
 }
